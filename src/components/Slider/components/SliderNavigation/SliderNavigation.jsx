@@ -9,12 +9,17 @@ const SliderNavigation = (props) => {
     hasPagination = true,
     // '' (default) | 'tile'
     mode = '',
+    // '' (default) | 'abs-bottom'
+    position = '',
+    isHiddenMobile,
   } = props
 
   return (
     <div
       className={classNames(className, 'slider-navigation', {
         [`slider-navigation--${mode}`]: mode,
+        [`slider-navigation--${position}`]: position,
+        'hidden-mobile': isHiddenMobile,
       })}
       data-js-slider-navigation=""
       id={id}
