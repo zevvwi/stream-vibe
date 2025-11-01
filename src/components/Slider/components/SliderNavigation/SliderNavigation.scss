@@ -15,6 +15,15 @@
     }
   }
 
+  &--rounded {
+    column-gap: fluid-to-laptop(10, 8);
+
+    .slider-navigation__arrow-button {
+      border-radius: 50%;
+      background-color: var(--color-black-08);
+    }
+  }
+
   &--abs-bottom {
     position: absolute;
     z-index: 1;
