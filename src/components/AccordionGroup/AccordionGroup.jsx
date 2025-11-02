@@ -4,6 +4,8 @@ import accordionGroup from "@/components/AccordionGroup/index"
 
 const AccordionGroup = (props) => {
   const {
+    // '' (default) | 'dark'
+    mode = '',
     className,
     columns = 1,
     children,
@@ -15,9 +17,10 @@ const AccordionGroup = (props) => {
 
   return (
     <ListTag
-      className={classNames('accordion-group', {
+      className={classNames(className, 'accordion-group', {
         [`accordion-group--${columns}-columns`]: columns > 1,
-        'accordion-group--has-counter': isOrderedList
+        'accordion-group--has-counter': isOrderedList,
+        [`accordion-group--${mode}`]: mode,
       })}
     >
       {children.map((child, index) => (

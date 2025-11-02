@@ -21,6 +21,10 @@
     .slider-navigation__arrow-button {
       border-radius: 50%;
       background-color: var(--color-black-08);
+
+      @include hover {
+        background-color: var(--color-red-60);
+      }
     }
   }
 
