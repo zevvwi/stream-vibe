@@ -16,7 +16,7 @@ const DeviceCard = (props) => {
       <header className="device-card__header">
         <div className="device-card__image-wrapper">
           <img
-            class="device-card__image"
+            className="device-card__image"
             src={imgSrc}
             alt=""
             width="40"
