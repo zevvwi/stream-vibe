@@ -24,7 +24,7 @@
     background-size: var(--selectButtonArrowIconSize);
     background-repeat: no-repeat;
 
-    @include mobile-s-above {
+    @include mobile-above {
       @include visually-hidden;
     }
 
