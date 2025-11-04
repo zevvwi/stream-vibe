@@ -54,8 +54,14 @@
 
     &-link {
       &:not(:last-child) {
-        padding-right: fluid-to-laptop(20, 16);
-        border-right: var(--border);
+        align-items: center;
+
+        &::after {
+          content: '';
+          height: 1em;
+          margin-inline: fluid-to-laptop(20, 16);
+          border-right: var(--border);
+        }
       }
     }
   }

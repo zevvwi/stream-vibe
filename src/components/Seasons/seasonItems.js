@@ -1,3 +1,6 @@
+import videoExampleSrc from '@/assets/videos/example.mp4'
+import videoPosterSrc from '@/assets/images/video-posters/1.jpg'
+
 const seasonItems = [
   {
     title: "Season 01",
@@ -9,8 +12,8 @@ const seasonItems = [
         description: "On his way from a friend’s house, young Will sees something terrifying . Nearby, a sinister secret lurks in the depths of a government lab.",
         duration: "49 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/1.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -19,8 +22,8 @@ const seasonItems = [
         description: "Lucas, Mike and Dustin try to talk to the girl they found in the woods. Hopper questions an anxious Joyce about an unsettling phone call.",
         duration: "56 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/2.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -29,8 +32,8 @@ const seasonItems = [
         description: "An increasingly concerned Nancy looks for Barb and finds out what Jonathan's been up to. Joyce is convinced Will is trying to talk to her.",
         duration: "52 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/3.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -39,8 +42,8 @@ const seasonItems = [
         description: "Refusing to believe Will is dead, Joyce tries to connect with her son. The boys give Eleven a makeover.",
         duration: "51 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/4.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -49,8 +52,8 @@ const seasonItems = [
         description: "Hopper breaks into the lab while Nancy and Jonathan confront the force that took Will. The boys ask Mr. Clarke how to travel to another dimension.",
         duration: "53 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/5.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -59,8 +62,8 @@ const seasonItems = [
         description: "On his way from a friend’s house, young Will sees something terrifying . Nearby, a sinister secret lurks in the depths of a government lab.",
         duration: "49 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/1.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -69,8 +72,8 @@ const seasonItems = [
         description: "Lucas, Mike and Dustin try to talk to the girl they found in the woods. Hopper questions an anxious Joyce about an unsettling phone call.",
         duration: "56 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/2.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -79,8 +82,8 @@ const seasonItems = [
         description: "An increasingly concerned Nancy looks for Barb and finds out what Jonathan's been up to. Joyce is convinced Will is trying to talk to her.",
         duration: "52 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/3.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -89,8 +92,8 @@ const seasonItems = [
         description: "Refusing to believe Will is dead, Joyce tries to connect with her son. The boys give Eleven a makeover.",
         duration: "51 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/4.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
     ],
@@ -105,8 +108,8 @@ const seasonItems = [
         description: "On his way from a friend’s house, young Will sees something terrifying . Nearby, a sinister secret lurks in the depths of a government lab.",
         duration: "49 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/1.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -115,8 +118,8 @@ const seasonItems = [
         description: "Lucas, Mike and Dustin try to talk to the girl they found in the woods. Hopper questions an anxious Joyce about an unsettling phone call.",
         duration: "56 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/2.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -125,8 +128,8 @@ const seasonItems = [
         description: "An increasingly concerned Nancy looks for Barb and finds out what Jonathan's been up to. Joyce is convinced Will is trying to talk to her.",
         duration: "52 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/3.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -135,8 +138,8 @@ const seasonItems = [
         description: "Refusing to believe Will is dead, Joyce tries to connect with her son. The boys give Eleven a makeover.",
         duration: "51 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/4.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -145,8 +148,8 @@ const seasonItems = [
         description: "Hopper breaks into the lab while Nancy and Jonathan confront the force that took Will. The boys ask Mr. Clarke how to travel to another dimension.",
         duration: "53 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/5.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
     ],
@@ -161,8 +164,8 @@ const seasonItems = [
         description: "On his way from a friend’s house, young Will sees something terrifying . Nearby, a sinister secret lurks in the depths of a government lab.",
         duration: "49 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/1.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -171,8 +174,8 @@ const seasonItems = [
         description: "Lucas, Mike and Dustin try to talk to the girl they found in the woods. Hopper questions an anxious Joyce about an unsettling phone call.",
         duration: "56 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/2.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -181,8 +184,8 @@ const seasonItems = [
         description: "An increasingly concerned Nancy looks for Barb and finds out what Jonathan's been up to. Joyce is convinced Will is trying to talk to her.",
         duration: "52 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/3.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -191,8 +194,8 @@ const seasonItems = [
         description: "Refusing to believe Will is dead, Joyce tries to connect with her son. The boys give Eleven a makeover.",
         duration: "51 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/4.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -201,8 +204,8 @@ const seasonItems = [
         description: "Hopper breaks into the lab while Nancy and Jonathan confront the force that took Will. The boys ask Mr. Clarke how to travel to another dimension.",
         duration: "53 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/5.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -211,8 +214,8 @@ const seasonItems = [
         description: "On his way from a friend’s house, young Will sees something terrifying . Nearby, a sinister secret lurks in the depths of a government lab.",
         duration: "49 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/1.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
       {
@@ -221,8 +224,8 @@ const seasonItems = [
         description: "Lucas, Mike and Dustin try to talk to the girl they found in the woods. Hopper questions an anxious Joyce about an unsettling phone call.",
         duration: "56 min",
         video: {
-          src: '/videos/example.mp4',
-          poster: '/video-posters/2.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc,
         },
       },
     ],

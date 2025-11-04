@@ -12,7 +12,8 @@ const SliderNavigation = (props) => {
     // '' (default) | 'abs-bottom'
     position = '',
     isHiddenMobile,
-    buttonMode = 'black-10'
+    buttonMode = 'black-10',
+    justifyContent
   } = props
 
   return (
@@ -21,6 +22,7 @@ const SliderNavigation = (props) => {
         [`slider-navigation--${mode}`]: mode,
         [`slider-navigation--${position}`]: position,
         'hidden-mobile': isHiddenMobile,
+        [`slider-navigation--${justifyContent}`]: justifyContent,
       })}
       data-js-slider-navigation=""
       id={id}
